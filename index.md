@@ -15,7 +15,7 @@
 - Github.
 
 ### Desafíos en los que he participado.
-- Advent of Code 2022.
+- Advent of Code 2022. https://github.com/AoC-ESPOL/AoC-2022-Solutions/commit/6524d1bcceb3ed9bb506c7fb90bf54cc85a0bdef
 
 ### Otros conocimientos.
 - Bases de datos MySQL.
